@@ -14,3 +14,64 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Certified data analyst having 1.5+ years of experience in descriptive & predictive Analytics.I have qualifications, technical skills, great analytical and numerical skills and personal qualities of a winner.I leave no stone unturned to minimize organizational challenges, generate more revenue and lead others by example .<br>
+The Skills that make me stand out from the crowd are Effective Communication Skills which always get me the desired result, the ability to go the Extra Mile as organizations are happier when they get more productivity and I possess Good Problem-Solving Skills as this is of utmost importance for smooth operation in every Organization.
+
+###Specialties / Sub-specialties:-
+###Analytics:
+ Machine Learning
+
+ Artificial Intelligence
+
+ Natural Language Processing [ NLTK ]
+
+ Computer Vision
+
+ Market Basket Analysis
+
+ Anomaly detection
+
+ Recommendation System
+
+ Descriptive & Inferential Statistics
+
+
+###Analytics Tools:
+ Python [ Spyder, PYCHARM, Jupyter ]
+
+ MS-Excel
+
+
+###Databases (DBMS):
+ Structured Query Language :- MYSQL
+
+ NoSQL :- MONGODB
+
+
+###BI Tools for Visualization:
+ Tableau
+
+ Power BI
+
+ Plotly
+
+Web-Scraping:
+ Beautiful-Soup
+
+ Selenium
+
+###API:
+ FLASK
+
+
+###Cloud (Model Deployment):
+
+ Heroku
+
+
+- 🔭 I’m currently working on Various freelance projects 
+- 🌱 I’m currently learning and upskilling myself as My Mantra is 'Learning is a continuous Process' 
+- 👯 Looking to collaborate for ML,DL and CV projects.
+- 💬 Open to connect and contribute towards data science community
+- 📫 Reach me at: linkedin: https://linkedin.com/in/tanya-shrivastava-/ email: tnya41@gmail.com

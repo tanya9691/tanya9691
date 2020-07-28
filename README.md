@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 I'm a Certified data analyst having 1.5+ years of experience in descriptive & predictive Analytics.I have qualifications, technical skills, great analytical and numerical skills and personal qualities of a winner.I leave no stone unturned to minimize organizational challenges, generate more revenue and lead others by example .<br>
 The Skills that make me stand out from the crowd are Effective Communication Skills which always get me the desired result, the ability to go the Extra Mile as organizations are happier when they get more productivity and I possess Good Problem-Solving Skills as this is of utmost importance for smooth operation in every Organization.
 
-###Specialties / Sub-specialties:-
-###Analytics:
+### Specialties / Sub-specialties:-<br>
+### Analytics:<br>
  Machine Learning
 
  Artificial Intelligence
@@ -37,39 +37,39 @@ The Skills that make me stand out from the crowd are Effective Communication Ski
  Descriptive & Inferential Statistics
 
 
-###Analytics Tools:
+### Analytics Tools:<br>
  Python [ Spyder, PYCHARM, Jupyter ]
 
  MS-Excel
 
 
-###Databases (DBMS):
+### Databases (DBMS):<br>
  Structured Query Language :- MYSQL
 
  NoSQL :- MONGODB
 
 
-###BI Tools for Visualization:
+### BI Tools for Visualization:<br>
  Tableau
 
  Power BI
 
  Plotly
 
-Web-Scraping:
+### Web-Scraping:<br>
  Beautiful-Soup
 
  Selenium
 
-###API:
+###API:<br>
  FLASK
 
 
-###Cloud (Model Deployment):
+### Cloud (Model Deployment):<br>
 
  Heroku
 
-
+### Summary😄 <br>
 - 🔭 I’m currently working on Various freelance projects 
 - 🌱 I’m currently learning and upskilling myself as My Mantra is 'Learning is a continuous Process' 
 - 👯 Looking to collaborate for ML,DL and CV projects.

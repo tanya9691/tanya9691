@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a Certified data analyst having 1.5+ years of experience in descriptive & predictive Analytics.I have qualifications, technical skills, great analytical and numerical skills and personal qualities of a winner.I leave no stone unturned to minimize organizational challenges, generate more revenue and lead others by example .<br>
 The Skills that make me stand out from the crowd are Effective Communication Skills which always get me the desired result, the ability to go the Extra Mile as organizations are happier when they get more productivity and I possess Good Problem-Solving Skills as this is of utmost importance for smooth operation in every Organization.
-
+![git](https://user-images.githubusercontent.com/55913308/89433075-80251400-d75f-11ea-8efa-853f1f88e277.gif)
 ### Specialties / Sub-specialties:-<br>
 ### Analytics:<br>
  Machine Learning

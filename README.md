@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Certified data analyst having 1.5+ years of experience in descriptive & predictive Analytics.<br>
+I'm a Certified data analyst having close to 2 years of experience in descriptive & predictive Analytics.<br>
 •	Hands-on experience with Tableau, PowerBI and similar visualization tools. <br>
 •	Data-Modelling skills and ability to think on my feet.<br>
 •	Experience designing solutions that are scalable, robust and as per the best practices.<br>
@@ -83,8 +83,7 @@ I'm a Certified data analyst having 1.5+ years of experience in descriptive & pr
 
 ### Summary😄 <br>
 ![image](https://user-images.githubusercontent.com/55913308/90811528-65979100-e342-11ea-879b-fc3a25faed11.png)
-
-- 🔭 I’m currently working on Various freelance projects 
+ 
 - 🌱 I’m currently learning and upskilling myself as My Mantra is 'Learning is a continuous Process' 
 - 👯 Looking to collaborate for ML,DL and CV projects.
 - 💬 Open to connect and contribute towards data science community

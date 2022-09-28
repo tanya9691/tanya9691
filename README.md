@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Certified data analyst having close to 2 years of experience in descriptive & predictive Analytics.<br>
+I have 2+ years of experience in the field of analytics working with ZS Associates - one of the top Analytics and Management Consulting firms working with top 10 pharmaceutical giant which is one of the fortune 500 companies.<br>
+I have deep expertise in the area of Marketing Mix, Business Insights and Reporting. <br>
+I am proficient in Advanced Excel, Tableau, SQL and Python as well.
+A commercially focused analyst with success in Data Analysis. <br>
+The key strength is painting stories with data and making it easier to digest in a commercial environment. <br>
+Expert in unpicking and optimizing data for stakeholders who can use my analysis for strategic decision-making.<br>
 •	Hands-on experience with Tableau, PowerBI and similar visualization tools. <br>
 •	Data-Modelling skills and ability to think on my feet.<br>
 •	Experience designing solutions that are scalable, robust and as per the best practices.<br>
